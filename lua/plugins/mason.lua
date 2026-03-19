@@ -13,6 +13,7 @@ return {
   config = function()
             vim.lsp.config("ts_ls", {})
             vim.lsp.config("tailwindcss", {})
+            vim.lsp.config("glsl_analyzer", {})
   end,
 },
 }
