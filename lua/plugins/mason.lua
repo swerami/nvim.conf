@@ -14,6 +14,7 @@ return {
             vim.lsp.config("ts_ls", {})
             vim.lsp.config("tailwindcss", {})
             vim.lsp.config("glsl_analyzer", {})
+            vim.lsp.config("sqlls", {})
   end,
 },
 }

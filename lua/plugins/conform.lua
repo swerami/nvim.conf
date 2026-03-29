@@ -37,6 +37,7 @@ return{ {
         json = { 'prettier' },
         html = { 'prettier' },
         css = { 'prettier' },
+        sql = {"sql-formatter"}
         -- Conform can also run multiple formatters sequentially
         -- python = { "isort", "black" },
         --
